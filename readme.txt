@@ -1,7 +1,7 @@
 === VuPango ===
 Contributors: ydp
 Donate link: http://tangointervention.org/
-Tags: comments, spam
+Tags: video, art
 Requires at least: 3.0
 Tested up to: 3.0.5
 Stable tag: 1.1b
