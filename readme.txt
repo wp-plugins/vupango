@@ -1,7 +1,7 @@
 === VuPango ===
 Contributors: ydp
 Donate link: http://tangointervention.org/
-Tags: video, art
+Tags: video, art, performance, activism
 Requires at least: 3.0
 Tested up to: 3.0.5
 Stable tag: 1.1b
@@ -10,7 +10,7 @@ VuPango allows for the setup of remote art installations involving multiple came
 
 == Description ==
 
-VuPango is an exciting step in the democratization of media, giving you remote video connectivity that once only belonged to mammoth corporations. VuPango lets you add multiple simultaneous live streams of video to your blog.  These videos can come from web cams or from cell phones anywhere in the world, with the video locations shown on a Google map. The videos are automatically arranged in a grid in the format of your choosing. There is also automatic implementation for twitter. This plugin is ideal for artists, performers, activists or anyone who wants to create a synchronous event from worldwide locations with live video. Join the revolution.
+VuPango adds multiple live streams of video to your blog. Video can come from cell phones anywhere in the world, and are shown on a Google map. Ideal for artists, performers, or activists creating worldwide events. Join the revolution.
 
 == Installation ==
 
