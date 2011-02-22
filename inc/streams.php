@@ -42,7 +42,7 @@
 				$height = resize($width,'.9'); //Original 333x300
 		
 				$html =  '<object id="bplayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="' . $width . '" height="' . $height . '">';
-				$html .= '<embed name="bplayer" src="http://static.bambuser.com/r/player.swf" type="application/x-shockwave-flash" flashvars="username=ydp&autostart=yes&mute=yes&chat=no" width="' . $width . '" height="' . $height . '" allowfullscreen="false" allowscriptaccess="always" wmode="opaque" />';
+				$html .= '<embed name="bplayer" src="http://static.bambuser.com/r/player.swf" type="application/x-shockwave-flash" flashvars="username=' . $user . '&autostart=yes&mute=yes&chat=no" width="' . $width . '" height="' . $height . '" allowfullscreen="false" allowscriptaccess="always" wmode="opaque" />';
 				$html .= '<param name="movie" value="http://static.bambuser.com/r/player.swf"></param>';
 				$html .= '<param name="flashvars" value="username=' . $user . '&autostart=yes&mute=yes&chat=yes"></param>';
 				$html .= '<param name="allowfullscreen" value="false"></param>';
