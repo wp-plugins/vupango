@@ -4,7 +4,7 @@ Donate link: http://tangointervention.org/
 Tags: video, art, performance, activism
 Requires at least: 3.0
 Tested up to: 3.0.5
-Stable tag: 1.1b
+Stable tag: 1.0.2
 
 VuPango allows for the setup of remote art installations involving multiple cameras
 
