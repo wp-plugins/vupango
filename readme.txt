@@ -50,6 +50,10 @@ Unfortunately, that is not possible in this version. To edit a stream, simply de
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Fixed a bug where using bambuser would load test code
+
 = 1.0.1 =
 
 * Fixed a bug related to Wordpress's handling of the date functions
@@ -69,6 +73,9 @@ Unfortunately, that is not possible in this version. To edit a stream, simply de
 * The admin menus were completed
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+This update fixes a bug that would load test code instead of the proper bambuser accounts.
 
 = 1.0.1 =
 This update fixes a timing related bug. Upgrade immediately.
