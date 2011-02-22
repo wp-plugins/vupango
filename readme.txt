@@ -50,11 +50,6 @@ Unfortunately, that is not possible in this version. To edit a stream, simply de
 
 == Changelog ==
 
-= 1.0.2 =
-
-* Fixed a bug related to bambuser streaming. A piece of test code wasn't removed.
-
-
 = 1.0.1 =
 
 * Fixed a bug related to Wordpress's handling of the date functions
@@ -74,9 +69,6 @@ Unfortunately, that is not possible in this version. To edit a stream, simply de
 * The admin menus were completed
 
 == Upgrade Notice ==
-
-= 1.0.2 =
-This update fixes a bug with bambuser streaming.
 
 = 1.0.1 =
 This update fixes a timing related bug. Upgrade immediately.
