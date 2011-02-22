@@ -3,7 +3,7 @@
 	Plugin Name: VuPango
 	Plugin URI: http://tangointervention.org/
 	Description: VuPango allows for the setup of remote art installations involving multiple cameras
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Joe Clay and Robert Lawrence
 	Author URI: http://yellowdogparty.com/
 	License: GPL2
